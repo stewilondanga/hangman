@@ -2,7 +2,7 @@ import java.util.Scanner;
 import java.util.Random;
 
 public class hangman {
-  public static void main() {
+  public static void main(String [] args) {
     Scanner scanner = new Scanner(System.in);
     Random random = new Random();
     String[] guesses - {"moringa", "programming", "branch", "fruit"};
