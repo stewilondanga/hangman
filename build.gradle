@@ -1,7 +1,3 @@
-import org.gradle.logging.ShowStacktrace
-gradle.startParameter.showStacktrace = ShowStacktrace.ALWAYS
-throw new RuntimeException('lol')
-
 apply plugin: 'java'
 apply plugin: 'application'
 

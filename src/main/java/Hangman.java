@@ -5,7 +5,7 @@ public class hangman {
   public static void main(String [] args) {
     Scanner scanner = new Scanner(System.in);
     Random random = new Random();
-    String[] guesses - {"moringa", "programming", "branch", "fruit"};
+    String[] guesses = {"moringa", "programming", "branch", "fruit"};
 
     boolean weArePlaying = true;
     while (weArePlaying) {
