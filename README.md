@@ -1,6 +1,8 @@
 # Hangman
 Command line program known as the Hangman game written in Java code.
 
+By Stewart ilondanga
+
 ## Description
 In this code there is a Java class to represent each new game, game objects include attributes that hold the answer, 
 and past letters the user has guessed. Classes are fully encapsulated, containing only private properties. There is use of 
